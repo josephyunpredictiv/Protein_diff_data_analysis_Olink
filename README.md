@@ -1,5 +1,5 @@
 # Protein_diff_data_analysis_Olink
-Protein differential expression data analysis from Olink. Bascially we're using olink software... 
+Protein differential expression data analysis from Olink. Bascially we're using olink software to run t-test.
 
 The file also contains code for PCA and Umap. This is created as a memo to self. However, hopefully this helps others trying Olink software. 
 
