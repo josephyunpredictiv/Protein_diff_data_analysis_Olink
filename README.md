@@ -3,7 +3,7 @@ Protein differential expression data analysis from Olink. Bascially we're using 
 
 The file also contains code for PCA and Umap. This is created as a memo to self. However, hopefully this helps others trying Olink software. 
 
-#Important note, make sure you carefuly check Log2FoldChange!!!!!! 
+# Important note, make sure you carefuly check Log2FoldChange!!!!!! 
 In the Olink source code: https://rdrr.io/cran/OlinkAnalyze/src/R/Olink_ttest.R 
 
 The line where it says:
